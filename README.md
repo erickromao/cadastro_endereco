@@ -6,10 +6,10 @@ Nele é utilizado uma API de CEP, que gera algumas informações padrões
 API ViaCEP: https://viacep.com.br/ws/SeuCEP/json/
 
 ### Linguagens e Tecnologias utilizadas
--> JavaScript 
--> PHP
--> AJAX
--> jQuery 
+- JavaScript 
+- PHP
+- AJAX
+- jQuery 
 
 
 
