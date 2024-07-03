@@ -1,0 +1,8 @@
+CEP: 28300000 
+RUA: rua 1 
+BAIRRO: bairro 1 
+CIDADE: Itaperuna 
+UF: RJ 
+DDD: 22 
+NUMERO: 200 
+COMPLEMENTO: casa 1

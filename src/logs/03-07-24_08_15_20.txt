@@ -1,0 +1,8 @@
+CEP: 28360000 
+RUA: rua 2 
+BAIRRO: bairro 2 
+CIDADE: Bom Jesus do Itabapoana 
+UF: RJ 
+DDD: 22 
+NUMERO: 250 
+COMPLEMENTO: casa 2
