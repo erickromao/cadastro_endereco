@@ -1,5 +1,5 @@
 ### Descrição
-O projeto conciste em fazer cadastros de endereços em arquivos ".txt.<br>
+O projeto conciste em fazer cadastros de endereços em arquivos ".txt" .<br>
 
 ### API usada
 Nele é utilizado uma API de CEP, que gera algumas informações padrões
